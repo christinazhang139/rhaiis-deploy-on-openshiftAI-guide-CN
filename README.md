@@ -1,4 +1,9 @@
-# 在 OpenShift 上部署LLM，使用Red Hat Inference Server 完整部署指南
+# 在 OpenShift AI上部署LLM
+## 使用Red Hat Inference Server 在OpenShift AI 完整部署指南
+
+
+
+<img width="2168" height="1392" alt="image" src="https://github.com/user-attachments/assets/48fc9924-d51b-4869-8d1b-4e7fd14102e0" />
 
 ## 环境确认 ✅
 确保以下组件已就绪：
