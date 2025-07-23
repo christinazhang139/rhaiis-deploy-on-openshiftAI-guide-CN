@@ -1,0 +1,1 @@
+# rhaiis-deploy-on-openshiftAI-guide-CN
